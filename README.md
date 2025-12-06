@@ -6,7 +6,9 @@ Przygotowałem również link do prezentacji, abyś mógł wrócić do materiał
 
 Jeśli chcesz śledzić kolejne tematy, nad którymi pracuję, oraz dostawać informacje o nowych wystąpieniach, zapraszam do obserwowania mnie na https://www.linkedin.com/in/sebastiandabkowski/. Chętnie też odpowiem na pytania lub podyskutuję o tym, co dziś poruszaliśmy.
 
+
 Linki do repozytorium:
+
 Modularny monolith
 https://github.com/SebastianDabkowski/mercato-1
 
